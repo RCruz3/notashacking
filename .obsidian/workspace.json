@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Bandit Level 11 → Level 12.md",
+                "file": "retos-bandit/Bandit Level 20 → Level 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e4074312016e963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Bandit Level 21 → Level 22.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "7cd71042d4f84df5",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit Level 11 → Level 12.md",
+                "file": "retos-bandit/Bandit Level 21 → Level 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit Level 11 → Level 12.md",
+                "file": "retos-bandit/Bandit Level 21 → Level 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit Level 11 → Level 12.md"
+                "file": "retos-bandit/Bandit Level 21 → Level 22.md"
               }
             }
           }
@@ -150,42 +163,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "91408a419f78c67f",
+  "active": "6e4074312016e963",
   "lastOpenFiles": [
-    "retos-bandit/Bandit Level 15 → Level 16.md",
-    "retos-bandit/Bandit Level 14 → Level 15.md",
-    "retos-bandit/Bandit Level 13 → Level 14.md",
-    "retos-bandit/Bandit Level 12 → Level 13.md",
-    "retos-bandit/Bandit Level 11 → Level 12.md",
-    "retos-bandit/Bandit Level 10 → Level 11.md",
-    "retos-bandit/Bandit Level 0 2.md",
-    "retos-bandit/Bandit Level 0 3.md",
-    "retos-bandit/Bandit Level 0.md",
-    "README.md",
-    "retos-bandit/Bandit Level 9 → Level 10.md",
-    "retos-bandit/Bandit Level 8 → Level 9.md",
-    "retos-bandit/Bandit Level 7 → Level 8.md",
-    "retos-bandit/Bandit Level 6 → Level 7.md",
-    "retos-bandit/Bandit Level 5 → Level 6.md",
-    "retos-bandit/Bandit Level 4 → Level 5.md",
-    "retos-bandit/Bandit Level 3 → Level 4.md",
-    "retos-bandit/Bandit Level 2 → Level 3.md",
-    "retos-bandit/Bandit Level 1 → Level 2.md",
-    "retos-bandit/Bandit Level 0 → Level 1.md",
-    "retos-bandit/Bandit Level 0 10.md",
-    "retos-bandit/Bandit Level 0 9.md",
-    "retos-bandit/Bandit Level 0 8.md",
-    "retos-bandit/Bandit Level 0 7.md",
-    "retos-bandit/Bandit Level 0 6.md",
-    "retos-bandit/Bandit Level 0 5.md",
+    "retos-picoCTF/ExamenParcial/Parte4/07-PW Crack 3.md",
+    "retos-picoCTF/ExamenParcial/Parte4/03-Based.md",
+    "retos-picoCTF/ExamenParcial/Parte4/01-Lets Warm Up.md",
+    "retos-picoCTF/ExamenParcial/Parte3/10-what's a net cat?.md",
+    "retos-picoCTF/ExamenParcial/Parte3/09-Wave a Flag.md",
+    "retos-picoCTF/ExamenParcial/Parte3/08-Warmed Up.md",
+    "retos-picoCTF/ExamenParcial/Parte3/07-strings it.md",
+    "retos-picoCTF/ExamenParcial/Parte3/06-Static ain't always noise.md",
+    "retos-picoCTF/ExamenParcial/Parte3/05-Obedient Cat.md",
+    "retos-picoCTF/ExamenParcial/Parte3/04-Nice Netcat....md",
+    "retos-picoCTF/ExamenParcial/Parte3/03-First Grep.md",
+    "retos-picoCTF/ExamenParcial/Parte3/02-Bases.md",
+    "retos-picoCTF/ExamenParcial/Parte3/01-2Warm.md",
+    "retos-picoCTF/ExamenParcial/Parte2/10-Tab, Tab, Attack.md",
+    "retos-picoCTF/ExamenParcial/Parte2/09-runme.py.md",
+    "retos-picoCTF/ExamenParcial/Parte2/08-PW Crack 2.md",
+    "retos-picoCTF/ExamenParcial/Parte2/07-PW Crack 1.md",
+    "retos-picoCTF/ExamenParcial/Parte2/06-Magikarp Ground Mission.md",
+    "retos-picoCTF/ExamenParcial/Parte2/02-convertme.py.md",
+    "retos-picoCTF/ExamenParcial/Parte2/01-Codebook.md",
+    "retos-picoCTF/ExamenParcial/Parte1/09-Time Machine.md",
+    "retos-picoCTF/ExamenParcial/Parte1/08-Super SSH.md",
+    "retos-picoCTF/ExamenParcial/Parte1/05-Commitment Issues.md",
+    "retos-picoCTF/ExamenParcial/Parte1/04-Collaborative Development.md",
+    "retos-picoCTF/ExamenParcial/Parte1/03-Blame Game.md",
+    "retos-picoCTF/ExamenParcial/Parte2/05-Glitch Cat.md",
+    "retos-picoCTF/ExamenParcial/Parte4",
+    "retos-picoCTF/ExamenParcial/Parte3",
+    "retos-picoCTF/ExamenParcial/Parte2",
+    "retos-picoCTF/ExamenParcial/Parte1",
+    "retos-picoCTF/ExamenParcial",
+    "retos-picoCTF",
     "retos-bandit"
   ]
 }
