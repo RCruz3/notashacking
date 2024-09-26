@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Bandit Level 21 → Level 22.md",
+                "file": "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit Level 21 → Level 22.md",
+                "file": "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit Level 21 → Level 22.md",
+                "file": "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit Level 21 → Level 22.md"
+                "file": "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md"
               }
             }
           }
@@ -163,16 +163,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "6e4074312016e963",
   "lastOpenFiles": [
+    "retos-picoCTF/RetosWeb/Parte1/5-Client-side-again.md",
+    "retos-picoCTF/RetosWeb/Parte1/3-logon.md",
+    "retos-picoCTF/RetosWeb/Parte1/2-Insp3ct0r.md",
+    "retos-picoCTF/RetosWeb/Parte1/1-dont-use-client-side.md",
+    "retos-picoCTF/RetosWeb/Parte2/04-JaWT Scratchpad.md",
+    "retos-picoCTF/RetosWeb/Parte1/plantilla.md",
+    "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
+    "retos-picoCTF/RetosWeb/Parte1/4-where are the robots.md",
+    "retos-picoCTF/RetosWeb/Parte1/2-dont-use-client-side.md",
+    "retos-picoCTF/RetosWeb/Parte1/1-Insp3ct0r.md",
+    "retos-picoCTF/RetosWeb/Parte1",
+    "retos-picoCTF/RetosWeb/Parte2/03-Irish-Name-Repo 3.md",
+    "retos-picoCTF/RetosWeb/Parte2/02-Irish-Name-Repo 2.md",
+    "retos-picoCTF/RetosWeb/Parte2/01-Irish-Name-Repo 1.md",
+    "retos-picoCTF/RetosWeb/Parte2/plantilla.md",
+    "retos-bandit/Bandit Level 21 → Level 22.md",
+    "retos-picoCTF/RetosWeb/Parte2",
+    "retos-picoCTF/RetosWeb",
     "retos-picoCTF/ExamenParcial/Parte4/07-PW Crack 3.md",
     "retos-picoCTF/ExamenParcial/Parte4/03-Based.md",
     "retos-picoCTF/ExamenParcial/Parte4/01-Lets Warm Up.md",
@@ -184,21 +202,6 @@
     "retos-picoCTF/ExamenParcial/Parte3/05-Obedient Cat.md",
     "retos-picoCTF/ExamenParcial/Parte3/04-Nice Netcat....md",
     "retos-picoCTF/ExamenParcial/Parte3/03-First Grep.md",
-    "retos-picoCTF/ExamenParcial/Parte3/02-Bases.md",
-    "retos-picoCTF/ExamenParcial/Parte3/01-2Warm.md",
-    "retos-picoCTF/ExamenParcial/Parte2/10-Tab, Tab, Attack.md",
-    "retos-picoCTF/ExamenParcial/Parte2/09-runme.py.md",
-    "retos-picoCTF/ExamenParcial/Parte2/08-PW Crack 2.md",
-    "retos-picoCTF/ExamenParcial/Parte2/07-PW Crack 1.md",
-    "retos-picoCTF/ExamenParcial/Parte2/06-Magikarp Ground Mission.md",
-    "retos-picoCTF/ExamenParcial/Parte2/02-convertme.py.md",
-    "retos-picoCTF/ExamenParcial/Parte2/01-Codebook.md",
-    "retos-picoCTF/ExamenParcial/Parte1/09-Time Machine.md",
-    "retos-picoCTF/ExamenParcial/Parte1/08-Super SSH.md",
-    "retos-picoCTF/ExamenParcial/Parte1/05-Commitment Issues.md",
-    "retos-picoCTF/ExamenParcial/Parte1/04-Collaborative Development.md",
-    "retos-picoCTF/ExamenParcial/Parte1/03-Blame Game.md",
-    "retos-picoCTF/ExamenParcial/Parte2/05-Glitch Cat.md",
     "retos-picoCTF/ExamenParcial/Parte4",
     "retos-picoCTF/ExamenParcial/Parte3",
     "retos-picoCTF/ExamenParcial/Parte2",
