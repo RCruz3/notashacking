@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
+                "file": "retos-picoCTF/RetosWeb/Parte3/plantilla.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
+                "file": "retos-picoCTF/RetosWeb/Parte3/plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
+                "file": "retos-picoCTF/RetosWeb/Parte3/plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md"
+                "file": "retos-picoCTF/RetosWeb/Parte3/plantilla.md"
               }
             }
           }
@@ -173,13 +173,20 @@
   },
   "active": "6e4074312016e963",
   "lastOpenFiles": [
+    "retos-picoCTF/RetosWeb/Parte3/03-Scavenger Hunt.md",
+    "retos-picoCTF/RetosWeb/Parte3/02-GET aHEAD.md",
+    "retos-picoCTF/RetosWeb/Parte3/01-Cookies.md",
+    "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
+    "retos-picoCTF/RetosWeb/Parte3/plantilla.md",
+    "retos-picoCTF/RetosWeb/Parte3/02-Cookies.md",
+    "retos-picoCTF/RetosWeb/Parte3/01-GET aHEAD.md",
+    "retos-picoCTF/RetosWeb/Parte3",
     "retos-picoCTF/RetosWeb/Parte1/5-Client-side-again.md",
     "retos-picoCTF/RetosWeb/Parte1/3-logon.md",
     "retos-picoCTF/RetosWeb/Parte1/2-Insp3ct0r.md",
     "retos-picoCTF/RetosWeb/Parte1/1-dont-use-client-side.md",
     "retos-picoCTF/RetosWeb/Parte2/04-JaWT Scratchpad.md",
     "retos-picoCTF/RetosWeb/Parte1/plantilla.md",
-    "retos-picoCTF/RetosWeb/Parte1/6-picobrowser.md",
     "retos-picoCTF/RetosWeb/Parte1/4-where are the robots.md",
     "retos-picoCTF/RetosWeb/Parte1/2-dont-use-client-side.md",
     "retos-picoCTF/RetosWeb/Parte1/1-Insp3ct0r.md",
@@ -196,18 +203,11 @@
     "retos-picoCTF/ExamenParcial/Parte4/01-Lets Warm Up.md",
     "retos-picoCTF/ExamenParcial/Parte3/10-what's a net cat?.md",
     "retos-picoCTF/ExamenParcial/Parte3/09-Wave a Flag.md",
-    "retos-picoCTF/ExamenParcial/Parte3/08-Warmed Up.md",
-    "retos-picoCTF/ExamenParcial/Parte3/07-strings it.md",
-    "retos-picoCTF/ExamenParcial/Parte3/06-Static ain't always noise.md",
-    "retos-picoCTF/ExamenParcial/Parte3/05-Obedient Cat.md",
-    "retos-picoCTF/ExamenParcial/Parte3/04-Nice Netcat....md",
-    "retos-picoCTF/ExamenParcial/Parte3/03-First Grep.md",
     "retos-picoCTF/ExamenParcial/Parte4",
     "retos-picoCTF/ExamenParcial/Parte3",
     "retos-picoCTF/ExamenParcial/Parte2",
     "retos-picoCTF/ExamenParcial/Parte1",
     "retos-picoCTF/ExamenParcial",
-    "retos-picoCTF",
-    "retos-bandit"
+    "retos-picoCTF"
   ]
 }
