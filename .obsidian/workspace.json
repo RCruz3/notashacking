@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-picoCTF/RetosForensic/Parte1/05-What Lies Within.md",
+                "file": "retos-picoCTF/RetosForensic/Parte2/05-WhitePages.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-picoCTF/RetosForensic/Parte1/05-What Lies Within.md",
+                "file": "retos-picoCTF/RetosForensic/Parte2/05-WhitePages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-picoCTF/RetosForensic/Parte1/05-What Lies Within.md",
+                "file": "retos-picoCTF/RetosForensic/Parte2/05-WhitePages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-picoCTF/RetosForensic/Parte1/05-What Lies Within.md"
+                "file": "retos-picoCTF/RetosForensic/Parte2/05-WhitePages.md"
               }
             }
           }
@@ -173,13 +173,18 @@
   },
   "active": "6e4074312016e963",
   "lastOpenFiles": [
+    "retos-picoCTF/RetosForensic/Parte2/04-shark on wire 2.md",
+    "retos-picoCTF/RetosForensic/Parte2/03-m00nwalk.md",
+    "retos-picoCTF/RetosForensic/Parte2/02-like1000.md",
+    "retos-picoCTF/RetosForensic/Parte2/01-c0rrupt.md",
+    "retos-picoCTF/RetosForensic/Parte2/05-WhitePages.md",
+    "retos-picoCTF/RetosForensic/Parte1/05-What Lies Within.md",
     "retos-picoCTF/RetosForensic/Parte1/04-So Meta.md",
     "retos-picoCTF/RetosForensic/Parte1/03-shark on wire 1.md",
     "retos-picoCTF/RetosForensic/Parte1/02-extensions.md",
     "retos-picoCTF/RetosForensic/Parte1/01-Glory of the Garden.md",
     "retos-picoCTF/RetosWeb/Parte3/01-Cookies.md",
     "retos-picoCTF/RetosForensic/Parte1/plantilla.md",
-    "retos-picoCTF/RetosForensic/Parte1/05-What Lies Within.md",
     "retos-picoCTF/RetosForensic/Parte1",
     "retos-picoCTF/RetosForensic",
     "retos-picoCTF/RetosWeb/Parte3/02-GET aHEAD.md",
@@ -197,12 +202,7 @@
     "retos-picoCTF/RetosWeb/Parte1/plantilla.md",
     "retos-picoCTF/RetosWeb/Parte1/4-where are the robots.md",
     "retos-picoCTF/RetosWeb/Parte1/2-dont-use-client-side.md",
-    "retos-picoCTF/RetosWeb/Parte1/1-Insp3ct0r.md",
     "retos-picoCTF/RetosWeb/Parte1",
-    "retos-picoCTF/RetosWeb/Parte2/03-Irish-Name-Repo 3.md",
-    "retos-picoCTF/RetosWeb/Parte2/02-Irish-Name-Repo 2.md",
-    "retos-picoCTF/RetosWeb/Parte2/01-Irish-Name-Repo 1.md",
-    "retos-picoCTF/RetosWeb/Parte2/plantilla.md",
     "retos-picoCTF/RetosWeb/Parte2",
     "retos-picoCTF/RetosWeb",
     "retos-picoCTF/ExamenParcial/Parte4",
