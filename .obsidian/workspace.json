@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-picoCTF/RetosReversing/Parte4/*04-reverse_cipher.md",
+                "file": "retos-picoCTF/RetosReversing/Parte3/03-asm3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "*04-reverse_cipher"
+              "title": "03-asm3"
             }
           }
         ]
@@ -166,6 +166,18 @@
   },
   "active": "c05c5f5e7e09da53",
   "lastOpenFiles": [
+    "retos-picoCTF/RetosReversing/Parte3/02-asm2.md",
+    "retos-picoCTF/RetosReversing/Parte3/03-asm3.md",
+    "retos-picoCTF/RetosReversing/Parte3/01-asm1.md",
+    "retos-picoCTF/RetosBinaryExplotation/Parte1/05-Stonks.md",
+    "retos-picoCTF/RetosBinaryExplotation/Parte1/04-RPS.md",
+    "retos-picoCTF/RetosBinaryExplotation/Parte1/03-flag leak.md",
+    "retos-picoCTF/RetosBinaryExplotation/Parte1/02-buffer overflow 0.md",
+    "retos-picoCTF/RetosBinaryExplotation/Parte1/01-basic-file-exploit.md",
+    "retos-picoCTF/RetosWeb/Parte4/*03-SOAP.md",
+    "retos-picoCTF/RetosWeb/Parte4/*02-Most Cookies.md",
+    "retos-picoCTF/RetosWeb/Parte4/01-MatchTheRegex.md",
+    "retos-picoCTF/RetosReversing/Parte4/*04-reverse_cipher.md",
     "retos-picoCTF/RetosReversing/Parte2/05-Safe Opener 2.md",
     "retos-picoCTF/RetosReversing/Parte2/06-timer.md",
     "retos-picoCTF/RetosReversing/Parte2/04-Picker IV.md",
@@ -180,18 +192,6 @@
     "examenes/TercerExamenParcial/Parte1/02-Flags.md",
     "examenes/TercerExamenParcial/Parte1/01-No Padding, No Problem.md",
     "examenes/TercerExamenParcial/Parte2/04-Play Nice.md",
-    "examenes/TercerExamenParcial/Parte2/03-Vigenere.md",
-    "examenes/TercerExamenParcial/Parte2/02-substitution1.md",
-    "examenes/TercerExamenParcial/Parte2/01-substitution0.md",
-    "examenes/TercerExamenParcial/Parte3/07-GDB baby step 1.md",
-    "examenes/TercerExamenParcial/Parte3/06-Bit-O-Asm-4.md",
-    "examenes/TercerExamenParcial/Parte3/05-Bit-O-Asm-3.md",
-    "examenes/TercerExamenParcial/Parte3/04-Bit-O-Asm-2.md",
-    "examenes/TercerExamenParcial/Parte3/03-Bit-O-Asm-1.md",
-    "examenes/TercerExamenParcial/Parte3/02-crackme-py.md",
-    "examenes/TercerExamenParcial/Parte4/05-keygenme-py.md",
-    "examenes/TercerExamenParcial/Parte4/04-GDB baby step 4.md",
-    "examenes/TercerExamenParcial/Parte4/03-GDB baby step 3.md",
     "examenes/TercerExamenParcial/Parte4",
     "examenes/TercerExamenParcial/Parte3",
     "examenes/TercerExamenParcial/Parte2",
