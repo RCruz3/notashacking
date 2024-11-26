@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-picoCTF/RetosReversing/Parte3/03-asm3.md",
+                "file": "retos-picoCTF/RetosBinaryExplotation/Parte2/02-clutter-overflow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-asm3"
+              "title": "02-clutter-overflow"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "c05c5f5e7e09da53",
   "lastOpenFiles": [
-    "retos-picoCTF/RetosReversing/Parte3/02-asm2.md",
+    "retos-picoCTF/RetosBinaryExplotation/Parte2/01-buffer overflow 1.md",
     "retos-picoCTF/RetosReversing/Parte3/03-asm3.md",
+    "retos-picoCTF/RetosReversing/Parte3/02-asm2.md",
     "retos-picoCTF/RetosReversing/Parte3/01-asm1.md",
     "retos-picoCTF/RetosBinaryExplotation/Parte1/05-Stonks.md",
     "retos-picoCTF/RetosBinaryExplotation/Parte1/04-RPS.md",
@@ -191,7 +192,6 @@
     "examenes/TercerExamenParcial/Parte1/03-Mr-Worldwide.md",
     "examenes/TercerExamenParcial/Parte1/02-Flags.md",
     "examenes/TercerExamenParcial/Parte1/01-No Padding, No Problem.md",
-    "examenes/TercerExamenParcial/Parte2/04-Play Nice.md",
     "examenes/TercerExamenParcial/Parte4",
     "examenes/TercerExamenParcial/Parte3",
     "examenes/TercerExamenParcial/Parte2",
